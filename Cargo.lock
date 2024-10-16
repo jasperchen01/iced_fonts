@@ -62,6 +62,7 @@ checksum = "151665d9be52f9bb40fc7966565d39666f2d1e69233571b71b87791c7e0528b3"
 [[package]]
 name = "iced_core"
 version = "0.14.0-dev"
+source = "git+https://github.com/videni/iced?branch=master#6162850c786e5b2749682e519cd73eed581ae1bf"
 dependencies = [
  "bitflags",
  "bytes",
